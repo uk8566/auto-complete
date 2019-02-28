@@ -2,7 +2,7 @@
   "name": "@uk8566/auto-complete",
   "version": "1.0.0",
   "description": "Angular Input Autocomplete",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "main": "dist/auto-complete.umd.js",
   "module": "dist/index.js",
   "typings": "dist/index.d.ts",
