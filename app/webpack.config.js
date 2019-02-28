@@ -8,7 +8,7 @@ const config = {
     resolve: {
         extensions: ['.ts', '.webpack.js', '.web.js', '.js'],
         alias: {
-            '@ngui/auto-complete': path.join(__dirname, '..', 'src', 'index')
+            '@uk8566/auto-complete': path.join(__dirname, '..', 'src', 'index')
         }
     },
     devtool: 'source-map',

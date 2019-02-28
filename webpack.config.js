@@ -3,7 +3,7 @@ const webpack = require('webpack');
 
 const config = {
     entry: {
-        '@ngui/auto-complete': path.join(__dirname, 'src', 'index.ts')
+        '@uk8566/auto-complete': path.join(__dirname, 'src', 'index.ts')
     },
     resolve: {
         extensions: ['.ts', '.js', '.json', '.css', '.html']

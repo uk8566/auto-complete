@@ -23,7 +23,7 @@
     "outDir": "dist",
     "baseUrl": "src",
     "paths": {
-      "@ngui/auto-complete": ["./index"]
+      "@uk8566/auto-complete": ["./index"]
     }
   },
   "files": [
