@@ -251,7 +251,7 @@ export class NguiAutoCompleteComponent implements OnInit {
                             paths.forEach((prop) => resp = resp[prop]);
                         }
 
-                        this.filteredList = resp;
+                        this.filteredList = resp.list;
                         if (this.maxNumList) {
                             this.filteredList = this.filteredList.slice(0, this.maxNumList);
                         }
