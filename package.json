@@ -1,6 +1,6 @@
 {
-  "name": "@ngui/auto-complete",
-  "version": "2.0.0",
+  "name": "@uk8566/auto-complete",
+  "version": "1.0.0",
   "description": "Angular Input Autocomplete",
   "license": "MIT",
   "main": "dist/auto-complete.umd.js",
@@ -64,7 +64,7 @@
     "type": "git",
     "url": "git+https://github.com/ng2-ui/auto-complete.git"
   },
-  "author": "",
+  "author": "umair",
   "bugs": {
     "url": "https://github.com/ng2-ui/auto-complete/issues"
   },
